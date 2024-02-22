@@ -3,6 +3,10 @@
   "displayName": "Gemini AI Codeing Assistant",
   "description": "Generate AI Code Using Gemini Pro",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KernelCode/gemini-ai-codeing-assistant.git"
+  },
   "engines": {
     "vscode": "^1.86.0"
   },
