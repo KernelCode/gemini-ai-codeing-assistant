@@ -13,9 +13,11 @@ A Visual Studio Code extension works like GitHub Copilot with Gemini AI pro .
 ## Usage
 
 1. Open a file with the supported language
-2. write your comment to replace it with suggested ai code
-3. press `Ctrl`+`Enter`
+2. Write your comment to replace it with suggested ai code
+3. Press `Ctrl`+`Enter`
 4. See the magic
+
+![Alt text](output.gif "Gemini AI Codeing Assistant")
 
 ## Save Token
 
