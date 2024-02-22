@@ -2,7 +2,7 @@
   "name": "gemini-ai-codeing-assistant",
   "displayName": "Gemini AI Codeing Assistant",
   "description": "Generate AI Code Using Gemini Pro",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "AbdullahAltaheri",
   "icon": "icon.png",
   "repository": {
